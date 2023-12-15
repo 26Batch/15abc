@@ -17,7 +17,7 @@ import utility.ReadData;
 
 public class Cart_Page_Test extends TestBase
 {
-	LoginPage login;
+	LoginPage login; 
 	Inventory_page_2 invent;
 	Cart_Page cart;
 	@BeforeMethod(alwaysRun = true)
